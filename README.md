@@ -1,3 +1,10 @@
+### Connect with me:
+
+[<img align="left" alt="linkedin" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/angelina-barboza-190484180/)
+
+<br />
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
