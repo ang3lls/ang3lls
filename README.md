@@ -18,5 +18,5 @@
 <br />
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eeikee&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ang3lls&layout=compact&show_icons=true&theme=merko)](https://github.com/ang3lls/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ang3lls&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ang3lls&layout=compact&show_icons=true&theme=radical)](https://github.com/ang3lls/github-readme-stats)
